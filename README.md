@@ -1,5 +1,7 @@
 <div align="center">
 
+This is a fork of the GameSync mod to impliment WebDev support
+
 # ☁️ Game Sync
 
 **Never lose a world. Play from anywhere.**
